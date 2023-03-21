@@ -1,8 +1,9 @@
 # `harke-puppeteer`
 
 Headless scraper for YouTube using Puppeteer based on our YouTube parser [harke](https://github.com/algorithmwatch/harke).
-It's mainly used for testing the parsers as well as monitoring some playlists on a server (without doing API requests).
-We are currently working on a more polished tool that supports more platforms.
+It was mainly used for testing the parsers as well as monitoring some playlists on a server (without doing API requests).
+
+Check out this new repo for more scrapers: https://github.com/algorithmwatch/dataskop-scrapers
 
 ## Installation
 
